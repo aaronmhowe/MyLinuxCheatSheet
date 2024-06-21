@@ -1,11 +1,17 @@
 ### Linux Terminal Commands
 
 # Launching WSL from Git Bash:
-	- ```winpty wsl```
+	- ```
+ winpty wsl
+ ```
 
 # Quitting WSL from Ubuntu Terminal in Git Bash:
-	- ```cd ..``` cd until at root directory
-	- ```exit```
+	- ```
+cd ..
+``` cd until at root directory
+	- ```
+exit
+```
 
 # File and Directory Commands:
 	- ```ls``` : list directory contents
