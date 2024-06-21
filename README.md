@@ -1,9 +1,9 @@
 ### Linux Terminal Commands
 
 # Launching WSL from Git Bash:
-	- ```
- winpty wsl
- ```
+```
+winpty wsl
+```
 
 # Quitting WSL from Ubuntu Terminal in Git Bash:
 	- ```
