@@ -44,7 +44,7 @@
 - `less` : view file contents page by page
 - `head` : display the beginnning of a file
 - `tail` : display the end of a file
-- `nano` : text editor ***~~for wimps~~***
+- `nano` : text editor ***~~for cowards~~***
 - `vim` : text editor ***~~for people who got that dawg in them~~***
 
 ### File Searching and Pattern Matching Commands:
